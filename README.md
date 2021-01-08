@@ -24,5 +24,5 @@
 ## How to Run
 
 Just run the corresponding **`*p.m`** file and you can get the power spectrum image of the corresponding mapping scheme.   
-Run **`fixwinpbinary.m` ** to get the result of gene detection using the Fixed length sliding window algorithm.  
+Run **`fixwinpbinary.m`** to get the result of gene detection using the Fixed length sliding window algorithm.  
 And run **`movewinbinary.m `** to get the result of gene detection using the Moving sequence algorithm.

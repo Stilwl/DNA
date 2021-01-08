@@ -19,7 +19,7 @@
 **Project.pdf** is the experiment report.  
 **`NC*`** is the source file of the input DNA sequence.  
 **`*p.m`** is the file used to obtain the power spectrum of different mapping schemes, for example, `vossp.m` is the file used to obtain the power spectrum of Voss mapping.    
-**`fixwinpbinary.m` ** is the implementation of Fixed length sliding window algorithm, and **`movewinbinary.m `** is the implementation of Moving sequence algorithm.
+**`fixwinpbinary.m`** is the implementation of Fixed length sliding window algorithm, and **`movewinbinary.m `** is the implementation of Moving sequence algorithm.
 
 ## How to Run
 

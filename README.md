@@ -1,19 +1,19 @@
 ## Directory Structure
 
-│  Project.pdf
-│  README.md
-└─code
-	│  `binary.m`
-	│  `Binaryp.m `
-	│  `fixwinpbinary.m` 
-    │  `movewinbinary.m `
-    │  `NC_012920_1.fasta` 
-    │  `NC_012920_1_cds.txt` 
-    │  `real.m` 
-    │  `Realp.m` 
-    │  `voss.m` 
-    │  `vossp.m` 
-    │  `zcurve.m` 
+│  Project.pdf  
+│  README.md  
+└─code  
+	│  `binary.m`  
+	│  `Binaryp.m `  
+	│  `fixwinpbinary.m`   
+    │  `movewinbinary.m  `   
+    │  `NC_012920_1.fasta`   
+    │  `NC_012920_1_cds.txt`   
+    │  `real.m`   
+    │  `Realp.m`   
+    │  `voss.m`   
+    │  `vossp.m`   
+    │  `zcurve.m`   
     │  `Zcurvep.m`        
 
 **Project.pdf** is the experiment report.  
